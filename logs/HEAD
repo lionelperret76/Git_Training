@@ -16,3 +16,9 @@ b0f5a0bb72c057606c0d8520cf45f92aa28758fc 74ee0254e0f3e6709a93a31c16d1cebacfad4ba
 b0f5a0bb72c057606c0d8520cf45f92aa28758fc 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 Lionel Perret <lionel.perret.76@gmail.com> 1623844269 +0200	rebase (start): checkout lp/add_list_of_favorite_beers
 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 9045cb6053dec362a988fb3df30d92936efe48f3 Lionel Perret <lionel.perret.76@gmail.com> 1623844347 +0200	commit: Accept whiskey as reward
 9045cb6053dec362a988fb3df30d92936efe48f3 9045cb6053dec362a988fb3df30d92936efe48f3 Lionel Perret <lionel.perret.76@gmail.com> 1623844358 +0200	rebase (continue) (finish): returning to refs/heads/lp/rebasing
+9045cb6053dec362a988fb3df30d92936efe48f3 9045cb6053dec362a988fb3df30d92936efe48f3 Lionel Perret <lionel.perret.76@gmail.com> 1623845926 +0200	checkout: moving from lp/rebasing to lp/backups
+9045cb6053dec362a988fb3df30d92936efe48f3 703c4573833f812aaf7737b7e09f8b3cc3af1198 Lionel Perret <lionel.perret.76@gmail.com> 1623845965 +0200	commit: Ask for feedback
+703c4573833f812aaf7737b7e09f8b3cc3af1198 e40845f89ef24b097d5a8de5897a00f042d47ea1 Lionel Perret <lionel.perret.76@gmail.com> 1623845981 +0200	commit: Ask for personal feedback
+e40845f89ef24b097d5a8de5897a00f042d47ea1 2a6564ba9940c95884b42c74ddb7525cf3f81aa4 Lionel Perret <lionel.perret.76@gmail.com> 1623845999 +0200	commit: Trade feedback for coffee
+2a6564ba9940c95884b42c74ddb7525cf3f81aa4 f151882cae7b588f6bb4ccd582ae50975b8f428a Lionel Perret <lionel.perret.76@gmail.com> 1623846024 +0200	commit: Add the branch of backups
+f151882cae7b588f6bb4ccd582ae50975b8f428a f151882cae7b588f6bb4ccd582ae50975b8f428a Lionel Perret <lionel.perret.76@gmail.com> 1623846251 +0200	reset: moving to f151882
