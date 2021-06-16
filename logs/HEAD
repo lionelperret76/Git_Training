@@ -12,3 +12,5 @@ b0f5a0bb72c057606c0d8520cf45f92aa28758fc 74ee0254e0f3e6709a93a31c16d1cebacfad4ba
 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 457e7e794aacc5dce18b1d4b355a02ddc44e93db Lionel Perret <lionel.perret.76@gmail.com> 1623838517 +0200	commit (merge): Add the list of beers first
 457e7e794aacc5dce18b1d4b355a02ddc44e93db 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 Lionel Perret <lionel.perret.76@gmail.com> 1623843692 +0200	checkout: moving from lp/merging to lp/cherry_picking
 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 47ed6d9a7c3ed9b241eef4557c6f1f0bb3f9ef17 Lionel Perret <lionel.perret.76@gmail.com> 1623844179 +0200	commit (cherry-pick): Accept whiskey as reward
+47ed6d9a7c3ed9b241eef4557c6f1f0bb3f9ef17 b0f5a0bb72c057606c0d8520cf45f92aa28758fc Lionel Perret <lionel.perret.76@gmail.com> 1623844249 +0200	checkout: moving from lp/cherry_picking to lp/rebasing
+b0f5a0bb72c057606c0d8520cf45f92aa28758fc 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 Lionel Perret <lionel.perret.76@gmail.com> 1623844269 +0200	rebase (start): checkout lp/add_list_of_favorite_beers
