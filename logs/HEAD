@@ -8,3 +8,4 @@ c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5
 c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 Lionel Perret <lionel.perret.76@gmail.com> 1623835899 +0200	commit: Let people know, what beer to buy
 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b Lionel Perret <lionel.perret.76@gmail.com> 1623835929 +0200	checkout: moving from lp/add_list_of_favorite_beers to lp/whiskey_is_also_an_option
 c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b b0f5a0bb72c057606c0d8520cf45f92aa28758fc Lionel Perret <lionel.perret.76@gmail.com> 1623835994 +0200	commit: Accept whiskey as reward
+b0f5a0bb72c057606c0d8520cf45f92aa28758fc 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 Lionel Perret <lionel.perret.76@gmail.com> 1623837987 +0200	checkout: moving from lp/whiskey_is_also_an_option to lp/merging
