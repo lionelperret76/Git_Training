@@ -10,3 +10,4 @@ c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b 74ee0254e0f3e6709a93a31c16d1cebacfad4ba
 c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b b0f5a0bb72c057606c0d8520cf45f92aa28758fc Lionel Perret <lionel.perret.76@gmail.com> 1623835994 +0200	commit: Accept whiskey as reward
 b0f5a0bb72c057606c0d8520cf45f92aa28758fc 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 Lionel Perret <lionel.perret.76@gmail.com> 1623837987 +0200	checkout: moving from lp/whiskey_is_also_an_option to lp/merging
 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 457e7e794aacc5dce18b1d4b355a02ddc44e93db Lionel Perret <lionel.perret.76@gmail.com> 1623838517 +0200	commit (merge): Add the list of beers first
+457e7e794aacc5dce18b1d4b355a02ddc44e93db 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 Lionel Perret <lionel.perret.76@gmail.com> 1623843692 +0200	checkout: moving from lp/merging to lp/cherry_picking
