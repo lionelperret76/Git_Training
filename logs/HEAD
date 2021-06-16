@@ -22,3 +22,12 @@ b0f5a0bb72c057606c0d8520cf45f92aa28758fc 74ee0254e0f3e6709a93a31c16d1cebacfad4ba
 e40845f89ef24b097d5a8de5897a00f042d47ea1 2a6564ba9940c95884b42c74ddb7525cf3f81aa4 Lionel Perret <lionel.perret.76@gmail.com> 1623845999 +0200	commit: Trade feedback for coffee
 2a6564ba9940c95884b42c74ddb7525cf3f81aa4 f151882cae7b588f6bb4ccd582ae50975b8f428a Lionel Perret <lionel.perret.76@gmail.com> 1623846024 +0200	commit: Add the branch of backups
 f151882cae7b588f6bb4ccd582ae50975b8f428a f151882cae7b588f6bb4ccd582ae50975b8f428a Lionel Perret <lionel.perret.76@gmail.com> 1623846251 +0200	reset: moving to f151882
+f151882cae7b588f6bb4ccd582ae50975b8f428a f151882cae7b588f6bb4ccd582ae50975b8f428a Lionel Perret <lionel.perret.76@gmail.com> 1623846304 +0200	checkout: moving from lp/backups to lp/interactive_rebase
+f151882cae7b588f6bb4ccd582ae50975b8f428a f151882cae7b588f6bb4ccd582ae50975b8f428a Lionel Perret <lionel.perret.76@gmail.com> 1623846495 +0200	rebase (abort): updating HEAD
+f151882cae7b588f6bb4ccd582ae50975b8f428a f151882cae7b588f6bb4ccd582ae50975b8f428a Lionel Perret <lionel.perret.76@gmail.com> 1623846495 +0200	rebase (abort): updating HEAD
+f151882cae7b588f6bb4ccd582ae50975b8f428a f151882cae7b588f6bb4ccd582ae50975b8f428a Lionel Perret <lionel.perret.76@gmail.com> 1623846679 +0200	rebase (abort): updating HEAD
+f151882cae7b588f6bb4ccd582ae50975b8f428a f151882cae7b588f6bb4ccd582ae50975b8f428a Lionel Perret <lionel.perret.76@gmail.com> 1623846679 +0200	rebase (abort): updating HEAD
+f151882cae7b588f6bb4ccd582ae50975b8f428a f151882cae7b588f6bb4ccd582ae50975b8f428a Lionel Perret <lionel.perret.76@gmail.com> 1623846853 +0200	rebase (abort): updating HEAD
+f151882cae7b588f6bb4ccd582ae50975b8f428a f151882cae7b588f6bb4ccd582ae50975b8f428a Lionel Perret <lionel.perret.76@gmail.com> 1623846853 +0200	rebase (abort): updating HEAD
+f151882cae7b588f6bb4ccd582ae50975b8f428a 703c4573833f812aaf7737b7e09f8b3cc3af1198 Lionel Perret <lionel.perret.76@gmail.com> 1623847277 +0200	rebase (start): checkout lp/rebasing
+703c4573833f812aaf7737b7e09f8b3cc3af1198 631a31a7e7ec1ee880db233567a8adc9322187a5 Lionel Perret <lionel.perret.76@gmail.com> 1623847329 +0200	commit: Rebase in interactive mode

@@ -1,0 +1,9 @@
+diff --git a/README.md b/README.md
+index c91f296..87f1c6f 100644
+--- a/README.md
++++ b/README.md
+@@ -8,3 +8,4 @@ Whiskey is also a good reward.
+ [These whiskeys](whiskeys.md) are great!
+ I would also love some feedback.
+ Personal feedback is the best.
++Helpful feedback is awarded with great coffee.
