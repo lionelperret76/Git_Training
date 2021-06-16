@@ -4,3 +4,7 @@ b7b3d5e6e2883347996671d13d306652b47f4cc3 1c762bdc39117213d65c51be03ae011dbdbdc6f
 1c762bdc39117213d65c51be03ae011dbdbdc6f9 b6a6239f8c3a4962bca7c3befb809673f33b8a43 Lionel Perret <lionel.perret.76@gmail.com> 1623833857 +0200	commit: Motivate the participant
 b6a6239f8c3a4962bca7c3befb809673f33b8a43 c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b Lionel Perret <lionel.perret.76@gmail.com> 1623833999 +0200	commit: Motivate the speaker
 c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b Lionel Perret <lionel.perret.76@gmail.com> 1623835409 +0200	checkout: moving from master to lp/new_branch
+c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b Lionel Perret <lionel.perret.76@gmail.com> 1623835629 +0200	checkout: moving from lp/new_branch to lp/add_list_of_favorite_beers
+c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b 74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 Lionel Perret <lionel.perret.76@gmail.com> 1623835899 +0200	commit: Let people know, what beer to buy
+74ee0254e0f3e6709a93a31c16d1cebacfad4ba5 c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b Lionel Perret <lionel.perret.76@gmail.com> 1623835929 +0200	checkout: moving from lp/add_list_of_favorite_beers to lp/whiskey_is_also_an_option
+c02e426a2cd5a27a88dff1d3f6b7d15c0e0ead5b b0f5a0bb72c057606c0d8520cf45f92aa28758fc Lionel Perret <lionel.perret.76@gmail.com> 1623835994 +0200	commit: Accept whiskey as reward
